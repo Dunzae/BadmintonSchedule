@@ -22,7 +22,7 @@ export const scheduleSlice = createSlice({
       state.loading = false
       state.gameList = action.payload
     }),
-      builder.addCase(getAllGameList.pending, (state, action) => {
+      builder.addCase(getAllGameList.pending, (state) => {
         state.loading = true
       })
   },

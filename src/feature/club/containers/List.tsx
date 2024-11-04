@@ -6,7 +6,6 @@ import { useNavigate } from "react-router-dom"
 
 export default function ListContainer(): React.ReactElement {
   const dispatch = useAppDispatch()
-  const navigate = useNavigate()
   const { currentPage, competition, clubTable, searchedClubNameArray } =
     useAppSelector((state) => ({
       currentPage: state.club.currentPage,

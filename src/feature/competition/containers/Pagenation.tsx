@@ -1,6 +1,6 @@
 import { useMemo, useCallback } from "react"
 import { useAppDispatch, useAppSelector } from "hook/redux"
-import { LIST_UNIT, PAGE_UNIT } from "util/constant"
+import { PAGE_UNIT } from "util/constant"
 import Button from "../components/PaginationButton"
 import { changeCurrentPage } from "../slice"
 import { fetchCompetitions } from "../thunk"
