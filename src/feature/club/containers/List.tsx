@@ -2,7 +2,6 @@ import { useCallback } from "react"
 import { useAppDispatch, useAppSelector } from "hook/redux"
 import { selectClub } from "../slice"
 import List from "../components/List"
-import { useNavigate } from "react-router-dom"
 
 export default function ListContainer(): React.ReactElement {
   const dispatch = useAppDispatch()
