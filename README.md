@@ -22,18 +22,18 @@
 이때 선택된 팀들의 시간표가 시간표란을 통해 출력되며, 이미지로 다운받을 수 있습니다.
 
 ## 사진
-이 사진은 실제 시간표를 구성한 후에 다운받은 사진입니다.  
+이 사진은 실제 시간표를 구성한 후에 다운받은 사진입니다.  <br />
 <img src="https://user-images.githubusercontent.com/137369425/257323726-0126a6cd-9750-4ee4-8a9d-c19667684731.png" />  
 
 이 사진은 대회 검색을 위한 리스트입니다.  
-선택 가능하며, 만약 대진표가 존재하지 않는 경우 시간표란이 비어있게 됩니다. (버그)  
+선택 가능하며, 만약 대진표가 존재하지 않는 경우 시간표란이 비어있게 됩니다. (버그)   <br />
 <img src="https://private-user-images.githubusercontent.com/183177837/385126728-e637f4ad-64cb-429d-adf7-07f885f2b8db.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzODI0MDYsIm5iZiI6MTczMTM4MjEwNiwicGF0aCI6Ii8xODMxNzc4MzcvMzg1MTI2NzI4LWU2MzdmNGFkLTY0Y2ItNDI5ZC1hZGY3LTA3Zjg4NWYyYjhkYi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMlQwMzI4MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDczZWM2NGFiMWE0MzQ4OWE5YjlhZjQ4MDVmYTA0ODNkYWFmZGZjNWU1NGNiMjk4OTkwMTcxMjRhMzhkZDk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ChOWb68t6IFhCwi1-c3qfnBuOE0QwvqM0QL8FwiwO2s" width="500" height="500" />  
 
 가장 고민을 많이했던 페이지네이션 기능입니다.
-리스트 목록을 주어진 단위로 쪼갠 후에 각 배열에 묶음으로 넣어 페이지네이션을 구현했습니다.  
+리스트 목록을 주어진 단위로 쪼갠 후에 각 배열에 묶음으로 넣어 페이지네이션을 구현했습니다.   <br />
 <img src="https://private-user-images.githubusercontent.com/183177837/385127569-fd0446ab-4a17-4f57-b756-3652172b83b1.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzODIwNjUsIm5iZiI6MTczMTM4MTc2NSwicGF0aCI6Ii8xODMxNzc4MzcvMzg1MTI3NTY5LWZkMDQ0NmFiLTRhMTctNGY1Ny1iNzU2LTM2NTIxNzJiODNiMS5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMlQwMzIyNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDU0NGE3MDdmZmFkMTFiZjkxMDYyNjJmYzkyNjdlYWNmNTdlMTg3YmMxMjYwMDk0Y2ZjZDI1NmQzY2NmZTU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KdzjQwvMCKrQRt1c8FjvsMqRio21jytlwEx6BgVnYBY"  />  
 
-이것은 페이지네이션 코드입니다.
+이것은 페이지네이션 코드입니다.   <br />
 ![image](https://github.com/user-attachments/assets/f1267e4a-669e-4078-a8c9-81d7db649005)  
 
 
