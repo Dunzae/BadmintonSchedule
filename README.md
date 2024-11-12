@@ -1,6 +1,6 @@
 # Badminton Game Schedule  
 2023년 3월 24일 ~ 2023년 8월 31일
-<a href="dunzae2.netlify.app">사이트 클릭</a>
+<a href="https://dunzae2.netlify.app">사이트 클릭</a>
 
 ## 개요  
 리액트를 배우고 처음으로 진행한 프로젝트입니다.  
