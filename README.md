@@ -1,4 +1,4 @@
-<p style="line-height: 1.5;">
+<p style="line-height: 2;">
 # Badminton Game Schedule  
 2023년 3월 24일 ~ 2023년 8월 31일  
 
