@@ -25,6 +25,10 @@
 이 사진은 실제 시간표를 구성한 후에 다운받은 사진입니다.  
 <img src="https://user-images.githubusercontent.com/137369425/257323726-0126a6cd-9750-4ee4-8a9d-c19667684731.png" />  
 
+이 사진은 대회 검색을 위한 리스트입니다.  
+선택 가능하며, 만약 대진표가 존재하지 않는 경우 시간표란이 비어있게 됩니다. (버그)  
+<img src="https://private-user-images.githubusercontent.com/183177837/385126728-e637f4ad-64cb-429d-adf7-07f885f2b8db.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzODE5NzcsIm5iZiI6MTczMTM4MTY3NywicGF0aCI6Ii8xODMxNzc4MzcvMzg1MTI2NzI4LWU2MzdmNGFkLTY0Y2ItNDI5ZC1hZGY3LTA3Zjg4NWYyYjhkYi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMlQwMzIxMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNjYxNWVmZjljMGYwZWNlYmRkNGRhOGQ5NjliMGM5Y2I4MTg5MGM2NmIyMmUwMWU1YTVhZDk4OTBiZDY0ODE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.B5PPmxknX8r-qZwHJrfLMJHPTmgB_6ylJksFHHas20Y" />
+
 ## 프로젝트를 진행하면서 아쉬웠던 점  
 처음 프로젝트를 만들다 보니 예외처리를 잘 하지 못했습니다.  
 예를 들어 대회 중 대진표가 존재하지 않는 경우는 대회 검색에 출력하지 않는다거나, 경고문을 좀 더 사용자 친화적으로 보여줬으면  
